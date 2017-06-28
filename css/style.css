@@ -1,0 +1,44 @@
+body {
+  background: #333;
+  margin-top : 5em;
+}
+
+.test {
+  background: #FFD384;
+  border-radius: 1em;
+ 
+} 
+.text-none {
+  text-decoration: none;
+  color: #000;
+}
+.width {
+  width:65%;
+  padding-top: 20px;
+}
+
+
+.work {
+  margin-top: 100px;
+}
+.sushi {
+  clear:both;
+  list-style:none;
+}
+.sushi li {
+   display: inline-block;
+    position: relative;
+    
+}
+
+.sushi li img{
+  height: 150px;
+  width: 200px;
+ 
+  
+}
+
+.cursive {
+  font-family: cursive;
+}
+
